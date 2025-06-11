@@ -1,8 +1,8 @@
 Let’s try checking what editor you're using. Do this:
 
-Force quit the terminal window (just close it).
+ou'll see something like ^O and ^X at the bottom.
 
-Thanks for the update — let’s fix this step-by-step.
+
 
 You're stuck in the Git commit message screen, and typing wq, q!, etc., into the editor isn’t working because you’re probably not in command mode yet.
 
