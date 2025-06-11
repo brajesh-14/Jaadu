@@ -1,7 +1,9 @@
 Let’s try checking what editor you're using. Do this:
 
-Force quit the terminal window (just close it).
+ou'll see something like ^O and ^X at the bottom.
 
-Reopen Git Bash or your terminal.
+Press Ctrl + X → then Y → then Enter to save and exit.
+
+Or Ctrl + X → then N to cancel without saving..
 
 Run this command to check the default Git editor:
