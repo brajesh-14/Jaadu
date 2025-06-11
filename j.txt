@@ -1,9 +1,6 @@
-Let’s try checking what editor you're using. Do this:
+Why Did This Happen?
+You likely initialized the GitHub repo with a README while creating it.
 
-ou'll see something like ^O and ^X at the bottom.
+Your local repo has different files (j.txt, jaadu.txt, etc.), so Git prevents overwriting.
 
-
-
-You're stuck in the Git commit message screen, and typing wq, q!, etc., into the editor isn’t working because you’re probably not in command mode yet.
-
-Let’s try again carefully and cleanly:
+Next Time: Avoid This Issue
