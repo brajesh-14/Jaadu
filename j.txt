@@ -2,6 +2,8 @@ Let’s try checking what editor you're using. Do this:
 
 Force quit the terminal window (just close it).
 
-Reopen Git Bash or your terminal.
+Thanks for the update — let’s fix this step-by-step.
 
-Run this command to check the default Git editor:
+You're stuck in the Git commit message screen, and typing wq, q!, etc., into the editor isn’t working because you’re probably not in command mode yet.
+
+Let’s try again carefully and cleanly:
