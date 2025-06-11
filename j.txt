@@ -1,13 +1,7 @@
-Bolo jaadu dikha do........
+Let’s try checking what editor you're using. Do this:
 
-dikha do........
+Force quit the terminal window (just close it).
 
-ankha band kiya.......
+Reopen Git Bash or your terminal.
 
-hath me mitti liya..........
-
-
-but jaadu chala nahi........
-
-
-
+Run this command to check the default Git editor:
