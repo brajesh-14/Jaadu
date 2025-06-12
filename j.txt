@@ -1,6 +1,9 @@
-Why Did This Happen?
-You likely initialized the GitHub repo with a README while creating it.
+In the stillness of a morning bright,
+Ideas awaken, taking flight.
+One small thought, like a whispered breeze,
+Can stir the mind and put it at ease.
 
-Your local repo has different files (j.txt, jaadu.txt, etc.), so Git prevents overwriting.
-
-Next Time: Avoid This Issue
+So whether it's a word or rhyme,
+Or thoughts that drift beyond their time—
+Write them down, don’t let them fade,
+That’s how the strongest dreams are made.
